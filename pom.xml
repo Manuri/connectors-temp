@@ -33,10 +33,10 @@
     <url>http://wso2.org</url>
 
     <scm>
-        <url>https://github.com/ballerinalang/connectors.git</url>
-        <developerConnection>scm:git:https://github.com/ballerinalang/connectors.git
+        <url>https://github.com/manuri/connectors-temp.git</url>
+        <developerConnection>scm:git:https://github.com/manuri/connectors-temp.git
         </developerConnection>
-        <connection>scm:git:https://github.com/ballerinalang/connectors.git</connection>
+        <connection>scm:git:https://github.com/manuri/connectors-temp.git</connection>
         <tag>HEAD</tag>
     </scm>
 
@@ -312,5 +312,7 @@
         <connectors.source.temp.dir>${basedir}/target/extra-resources</connectors.source.temp.dir>
         <connectors.samples.dir>${basedir}/target/extra-samples</connectors.samples.dir>
         <docerina.maven.plugin.version>0.8.1</docerina.maven.plugin.version>
+
+        <project.scm.id>my-scm-server</project.scm.id>
     </properties>
 </project>
