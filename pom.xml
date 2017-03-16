@@ -27,7 +27,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.wso2.ballerina.connectors</groupId>
     <artifactId>connectors</artifactId>
-    <version>0.8.18-SNAPSHOT</version>
+    <version>0.8.19-SNAPSHOT</version>
     <name>Ballerina Connectors - Parent</name>
 
     <url>http://wso2.org</url>
