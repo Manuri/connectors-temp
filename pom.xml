@@ -33,10 +33,10 @@
     <url>http://wso2.org</url>
 
     <scm>
-        <url>https://github.com/ballerinalang/connectors.git</url>
-        <developerConnection>scm:git:https://github.com/ballerinalang/connectors.git
+        <url>https://github.com/manuri/connectors-temp.git</url>
+        <developerConnection>scm:git:https://github.com/manuri/connectors-temp.git
         </developerConnection>
-        <connection>scm:git:https://github.com/ballerinalang/connectors.git</connection>
+        <connection>scm:git:https://github.com/manuri/connectors-temp.git</connection>
         <tag>HEAD</tag>
     </scm>
 
